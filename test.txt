@@ -1,0 +1,198 @@
+Epoch1
+GloVE model:
+Training loss-> 2.70109486579895  Training accuracy-> 0.12882860004901886
+Validation loss-> 2.195162296295166  Validation accuracy-> 0.22080519795417786
+
+Dumb model:
+Training loss-> 2.8699216842651367  Training accuracy-> 0.08076009154319763
+Validation loss-> 2.602823495864868  Validation accuracy-> 0.10627657175064087
+
+
+Epoch2
+GloVE model:
+Training loss-> 2.0187296867370605  Training accuracy-> 0.29934990406036377
+Validation loss-> 1.6716972589492798  Validation accuracy-> 0.43085771799087524
+
+Dumb model:
+Training loss-> 2.512579917907715  Training accuracy-> 0.12114014476537704
+Validation loss-> 2.3587985038757324  Validation accuracy-> 0.14753688871860504
+
+
+Epoch3
+GloVE model:
+Training loss-> 1.5657519102096558  Training accuracy-> 0.45761969685554504
+Validation loss-> 1.3339749574661255  Validation accuracy-> 0.5341335535049438
+
+Dumb model:
+Training loss-> 2.2383971214294434  Training accuracy-> 0.17345918715000153
+Validation loss-> 2.11578106880188  Validation accuracy-> 0.23980994522571564
+
+
+Epoch4
+GloVE model:
+Training loss-> 1.308833122253418  Training accuracy-> 0.5451931357383728
+Validation loss-> 1.2123157978057861  Validation accuracy-> 0.5941485166549683
+
+Dumb model:
+Training loss-> 1.8856768608093262  Training accuracy-> 0.27609699964523315
+Validation loss-> 1.781007170677185  Validation accuracy-> 0.34633657336235046
+
+
+Epoch5
+GloVE model:
+Training loss-> 1.1355183124542236  Training accuracy-> 0.6093886494636536
+Validation loss-> 1.0866258144378662  Validation accuracy-> 0.638659656047821
+
+Dumb model:
+Training loss-> 1.532746434211731  Training accuracy-> 0.4074884355068207
+Validation loss-> 1.5353115797042847  Validation accuracy-> 0.4601150155067444
+
+
+Epoch6
+GloVE model:
+Training loss-> 1.0054506063461304  Training accuracy-> 0.6529566049575806
+Validation loss-> 1.071813702583313  Validation accuracy-> 0.6411603093147278
+
+Dumb model:
+Training loss-> 1.1781961917877197  Training accuracy-> 0.5445055365562439
+Validation loss-> 1.322776436805725  Validation accuracy-> 0.5496374368667603
+
+
+Epoch7
+GloVE model:
+Training loss-> 0.8925763964653015  Training accuracy-> 0.6917114853858948
+Validation loss-> 1.046356201171875  Validation accuracy-> 0.6554138660430908
+
+Dumb model:
+Training loss-> 0.8524017333984375  Training accuracy-> 0.6788973808288574
+Validation loss-> 1.3611762523651123  Validation accuracy-> 0.591147780418396
+
+
+Epoch8
+GloVE model:
+Training loss-> 0.7949730157852173  Training accuracy-> 0.7222777605056763
+Validation loss-> 0.9794935584068298  Validation accuracy-> 0.679919958114624
+
+Dumb model:
+Training loss-> 0.6047651767730713  Training accuracy-> 0.7834729552268982
+Validation loss-> 1.152780294418335  Validation accuracy-> 0.6686671376228333
+
+
+Epoch9
+GloVE model:
+Training loss-> 0.7101254463195801  Training accuracy-> 0.754156768321991
+Validation loss-> 0.9926314949989319  Validation accuracy-> 0.6786696910858154
+
+Dumb model:
+Training loss-> 0.41172322630882263  Training accuracy-> 0.8632329106330872
+Validation loss-> 1.4233165979385376  Validation accuracy-> 0.656914234161377
+
+
+Epoch10
+GloVE model:
+Training loss-> 0.6128084659576416  Training accuracy-> 0.7858482599258423
+Validation loss-> 0.9901585578918457  Validation accuracy-> 0.6836709380149841
+
+Dumb model:
+Training loss-> 0.2965870797634125  Training accuracy-> 0.906488299369812
+Validation loss-> 1.3692147731781006  Validation accuracy-> 0.6896724104881287
+
+
+Epoch11
+GloVE model:
+Training loss-> 0.5423474311828613  Training accuracy-> 0.8106013536453247
+Validation loss-> 1.0599857568740845  Validation accuracy-> 0.6861715316772461
+
+Dumb model:
+Training loss-> 0.23400898277759552  Training accuracy-> 0.9260532855987549
+Validation loss-> 1.368758201599121  Validation accuracy-> 0.7119280099868774
+
+
+Epoch12
+GloVE model:
+Training loss-> 0.46628522872924805  Training accuracy-> 0.8408551216125488
+Validation loss-> 1.0240484476089478  Validation accuracy-> 0.6914228796958923
+
+Dumb model:
+Training loss-> 0.20370127260684967  Training accuracy-> 0.9391798973083496
+Validation loss-> 1.3185275793075562  Validation accuracy-> 0.717929482460022
+
+
+Epoch13
+GloVE model:
+Training loss-> 0.4116817116737366  Training accuracy-> 0.858357310295105
+Validation loss-> 1.1193586587905884  Validation accuracy-> 0.68467116355896
+
+Dumb model:
+Training loss-> 0.1661258041858673  Training accuracy-> 0.949931263923645
+Validation loss-> 1.4129785299301147  Validation accuracy-> 0.7191798090934753
+
+
+Epoch14
+GloVE model:
+Training loss-> 0.35390138626098633  Training accuracy-> 0.8784847855567932
+Validation loss-> 1.2869882583618164  Validation accuracy-> 0.6776694059371948
+
+Dumb model:
+Training loss-> 0.1520368754863739  Training accuracy-> 0.9527440667152405
+Validation loss-> 1.5619585514068604  Validation accuracy-> 0.7139284610748291
+
+
+Epoch15
+GloVE model:
+Training loss-> 0.3135205805301666  Training accuracy-> 0.891486406326294
+Validation loss-> 1.2797285318374634  Validation accuracy-> 0.6841710209846497
+
+Dumb model:
+Training loss-> 0.13824114203453064  Training accuracy-> 0.958244800567627
+Validation loss-> 1.5295372009277344  Validation accuracy-> 0.7076769471168518
+
+
+Epoch16
+GloVE model:
+Training loss-> 0.29011377692222595  Training accuracy-> 0.9034879207611084
+Validation loss-> 1.1960058212280273  Validation accuracy-> 0.6894223690032959
+
+Dumb model:
+Training loss-> 0.11985782533884048  Training accuracy-> 0.960745096206665
+Validation loss-> 1.5130633115768433  Validation accuracy-> 0.7126781940460205
+
+
+Epoch17
+GloVE model:
+Training loss-> 0.24779154360294342  Training accuracy-> 0.9198024868965149
+Validation loss-> 1.416683316230774  Validation accuracy-> 0.6774193644523621
+
+Dumb model:
+Training loss-> 0.11269575357437134  Training accuracy-> 0.9632453918457031
+Validation loss-> 1.5577948093414307  Validation accuracy-> 0.7291823029518127
+
+
+Epoch18
+GloVE model:
+Training loss-> 0.24065610766410828  Training accuracy-> 0.9213026762008667
+Validation loss-> 1.532963752746582  Validation accuracy-> 0.6611652970314026
+
+Dumb model:
+Training loss-> 0.10310973227024078  Training accuracy-> 0.9647455811500549
+Validation loss-> 1.610551118850708  Validation accuracy-> 0.7214303612709045
+
+
+Epoch19
+GloVE model:
+Training loss-> 0.21065418422222137  Training accuracy-> 0.9296162128448486
+Validation loss-> 1.2674375772476196  Validation accuracy-> 0.7036759257316589
+
+Dumb model:
+Training loss-> 0.10135798901319504  Training accuracy-> 0.9659332633018494
+Validation loss-> 1.5099114179611206  Validation accuracy-> 0.732183039188385
+
+
+Epoch20
+GloVE model:
+Training loss-> 0.1879943460226059  Training accuracy-> 0.9363670349121094
+Validation loss-> 1.3650466203689575  Validation accuracy-> 0.7056764364242554
+
+Dumb model:
+Training loss-> 0.0958913266658783  Training accuracy-> 0.9673084020614624
+Validation loss-> 1.6595540046691895  Validation accuracy-> 0.7316828966140747
