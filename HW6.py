@@ -194,10 +194,11 @@ def main():
     model = create_model(int_sequences_input, preds)
     loss, acc, val_loss, val_acc = train_model(vectorizer, train_samples, train_labels, val_samples, val_labels, model, epochs)
 
-    dumb_int_sequences_input, dumb_preds = create_embedding_layer(class_names, embedding_matrix, num_tokens, embedding_dim, True)
-    dumb_model = create_model(dumb_int_sequences_input, dumb_preds)
-    dumb_loss, dumb_acc, dumb_val_loss, dumb_val_acc = train_model(vectorizer, train_samples, train_labels, val_samples, val_labels, dumb_model, epochs)
+    #dumb_int_sequences_input, dumb_preds = create_embedding_layer(class_names, embedding_matrix, num_tokens, embedding_dim, True)
+    #dumb_model = create_model(dumb_int_sequences_input, dumb_preds)
+    #dumb_loss, dumb_acc, dumb_val_loss, dumb_val_acc = train_model(vectorizer, train_samples, train_labels, val_samples, val_labels, dumb_model, epochs)
 
-    plot_dif_method(loss, val_loss, dumb_loss, dumb_val_loss)
+    plot(train, val_loss, "loss")
+    plot(acc, val_acc, "accuracy")
 
 main()
